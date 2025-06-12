@@ -255,7 +255,7 @@ const EventFilters: React.FC<EventFiltersProps> = ({
           </div>
         </div>
         
-        {/* Event Type */}
+        {/* Choose Event Type */}
         <div className="p-4 border-b border-gray-200">
           <h3 className="font-medium text-gray-700 mb-3 flex items-center">
             <Tag size={20} className="mr-2" />
