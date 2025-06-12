@@ -7,29 +7,29 @@
 ## 🧩 Key Features
 
 - 🔐 **Authentication & Authorization**
-  - Role-based access: Organizer, Participant
-  - Firebase Authentication with Multi-Factor Authentication (MFA)
+  - Role-based access: Organizer, Participant.
+  - Firebase Authentication with Multi-Factor Authentication (MFA).
 
 - 📆 **Event Management (Organizers)**
-  - Create, edit, and manage events with schedules, descriptions, and images
-  - QR Code generation for each event registration
-  - Send announcements and updates to participants in real-time
+  - Create, edit, and manage events with schedules, descriptions, and images.
+  - QR Code generation for each event registration.
+  - Send announcements and updates to participants in real-time.
 
 - 🧑‍💻 **Participant Experience**
-  - Register for events with a single click
-  - Access a personalized dashboard with registered events and QR codes
-  - Submit post-event feedback and ratings
+  - Register for events with a single click.
+  - Access a personalized dashboard with registered events and QR codes.
+  - Submit post-event feedback and ratings.
 
 - 📋 **Event Listing & Scheduling**
-  - Public-facing list of upcoming events
-  - Filters by date, category, or organizer
+  - Public-facing list of upcoming events.
+  - Filters by date, category, or organizer.
 
 - 📊 **Admin Dashboard**
-  - Monitor platform usage, manage users, and oversee event statistics
+  - Monitor platform usage, manage users, and oversee event statistics.
 
 - 📬 **Feedback System**
-  - Participants receive automated feedback forms
-  - Organizers can view analytics and responses
+  - Participants receive automated feedback forms.
+  - Organizers can view analytics and responses.
 
 ---
 
